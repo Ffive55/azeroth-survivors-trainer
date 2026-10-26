@@ -1,0 +1,62 @@
+# Python 与本机开发环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+
+# 构建产物；生成后的 native_templates_v3.py / progression_template.py 必须提交
+build/
+dist/
+release*/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.tar
+*.gz
+
+# 游戏资源、个人存档、配置、运行状态与备份
+Data/
+benilla-config/
+wenilla-rogue/
+backups/
+sessions/
+logs/
+test-runs/
+research-upstream/
+characters.txt
+disk-before.txt
+saved-variables.lua
+.env
+.env.*
+!.env.example
+
+# 本机诊断和反汇编产物
+*.log
+*.bin
+*-disasm.txt
+native-v3.asm.txt
+current-test-*.txt
+verification*.json
+v3*.json
+trial-*.json
+test-results*.txt
+*-session.json
+save-exit-trace.json
+progression-*.json
+progression-*.txt
+build-comparison.json
+field-comparison.txt
+
+# 系统杂项
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,106 @@
+[
+  {
+    "file": "app.py",
+    "sha256": "1ad2a96b0ff4b8b8639d871509d0886d4d6a93a9118a66e4c0adf285c5fc23e3"
+  },
+  {
+    "file": "app_v2.py",
+    "sha256": "7315e44cfec2f60695f7e477a10040c49a38d59fbf80e4df89a1a9c0c195957a"
+  },
+  {
+    "file": "engine.py",
+    "sha256": "5e66909305b490fd72893e3bce0c39438c61cdfeeb375ee63fe5ec80440796ea"
+  },
+  {
+    "file": "winmem.py",
+    "sha256": "a2436994b9ae3318020b71b98f433c7af078f844c0212e80535d831522036bbb"
+  },
+  {
+    "file": "talents.py",
+    "sha256": "f9da5a0c4a8e134c899fc9cd45702ab69483230ea41253bcc5fb826e9fd7779a"
+  },
+  {
+    "file": "runtime_features.py",
+    "sha256": "6bc3bf4dba378c003e40e62b97a299bb01bf548806f46f85d5609173a9c7dcd8"
+  },
+  {
+    "file": "native_v3.py",
+    "sha256": "3f077b2ce915d655c83a26d49798dc80c1eb8fcdc5b1c4d379fd00822af0594f"
+  },
+  {
+    "file": "native_templates_v3.py",
+    "sha256": "d7ccdeb3ff6fb827b9de37fef9cb4fac95459fc03e52d0bd7c70e9c51d8c02dc"
+  },
+  {
+    "file": "progression_catalog.py",
+    "sha256": "1d178a8d5839916ee9fdeceb01222ea65b829aa8a01a75411efb4142e5155c98"
+  },
+  {
+    "file": "progression_live.py",
+    "sha256": "2e5e5b0ef41770fcd34dfdc2f82ff02f95cdff5ceea4112ec38a3251e6a9dbb5"
+  },
+  {
+    "file": "progression_model.py",
+    "sha256": "08099345ec7974806398b5f0b7d9364fb3de3e0ecf1e0b8fdf9e1a0851b12360"
+  },
+  {
+    "file": "progression_rpc.py",
+    "sha256": "9b69fd1c9419272f28875bd169d3a85cd5ceb26d4fb15196749326a0d02ddea1"
+  },
+  {
+    "file": "progression_template.py",
+    "sha256": "190a3d537c7ab2e0a715fc5db2ff84aba24c23e4a54183409235eb96e8c9e6c7"
+  },
+  {
+    "file": "progression_ui.py",
+    "sha256": "51eae92f4d2ae7b091affd9232fddef41abdd1fc0826ecb4462a68ccc04b0c35"
+  },
+  {
+    "file": "save_codec.py",
+    "sha256": "56a093c1f0818d73b63d71b1c0b6b7ae1e61199cb61bf7047b08b4e684d0448c"
+  },
+  {
+    "file": "cli.py",
+    "sha256": "9be9f4b9f09fc09b8cd8599e5667352554f8b1fa1e78aef60ef58682e6043c4a"
+  },
+  {
+    "file": "research.py",
+    "sha256": "b48414484f90a07412db6a978ada2b3febfeb53ad853127ae335b54c6b97fbe5"
+  },
+  {
+    "file": "build_native_v3.py",
+    "sha256": "7aa43e7556fd913cdcb5036f61094e04c0d25c8f3bd7171700a0282f075dc5a3"
+  },
+  {
+    "file": "build_progression_native.py",
+    "sha256": "8f82096a63c8e0e39a34ba597ee4860879dfaba4ae4561a7227720d0bf7411bf"
+  },
+  {
+    "file": "test_trainer.py",
+    "sha256": "af2359b04b15f76b593874b9e749cbdb8876d8b8189befaa94cc6a7d2cd3c6fa"
+  },
+  {
+    "file": "test_runtime_features.py",
+    "sha256": "b8f000c53ad77fcfcc6196cb9b1e68d34938a9c17c66efab3b4435d676e2e3da"
+  },
+  {
+    "file": "test_native_v3.py",
+    "sha256": "854a1330ddf6dc31de8160a218d54e00ab1b97ab036c26a4d8c5348402575db8"
+  },
+  {
+    "file": "test_progression.py",
+    "sha256": "914d70915a72e86e8ad0b41ce309aca0fe2a579503870035d6f4bf24db57a312"
+  },
+  {
+    "file": "test_build_compatibility.py",
+    "sha256": "a12e6353b2854669cee871acf415c8becf035029886ab2c98b8e85bb2513743d"
+  },
+  {
+    "file": "requirements-dev.txt",
+    "sha256": "ba2b6dfe73d6d9c078850f7c3cdd72da04e3d9a886afb41082d36855a60d965e"
+  },
+  {
+    "file": "AzerothTrainer.spec",
+    "sha256": "8d763035811908690c3817b7dd61742b95191ec8ccc68e03c2843cb3931266dc"
+  }
+]
